@@ -3,7 +3,7 @@ const chalk = require("chalk")
 
 global.available = true
 global.autoReadGc = true
-global.autoReadAll = false
+global.autoReadAll = true
 global.antitags = true
 
 
@@ -13,7 +13,7 @@ global.ownertag = ['918101187835']
 global.BotName = "Miku"
 global.packname = "Miku bot"
 global.author = "By: Fantox"
-global.OwnerName = "Fantox"
+global.OwnerName = "Thenuka"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
 global.sessionName = "session"
@@ -24,8 +24,8 @@ global.prefa = ['-']
 
 
 global.location = "West Bengal, India"
-global.reactmoji = "❤️"
-global.themeemoji = "💖"
+global.reactmoji = "🦅"
+global.themeemoji = "🐞"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
 global.websitex = "https://github.com/FantoX001"
 global.lolhuman = "KaysaS"
@@ -37,24 +37,24 @@ global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg")
 global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg")
 
 
-global.ntilinkytvid = []
-global.ntilinkytch = []
-global.ntilinkig = []
-global.ntilinkfb = []
-global.ntilinktg = []
-global.ntilinktt = []
-global.ntilinktwt = []
-global.ntilinkall = []
-global.nticall = []
-global.ntwame = []
-global.nttoxic = []
-global.ntnsfw = []
-global.ntvirtex = []
-global.rkyt = []
-global.wlcm = []
-global.gcrevoke = []
-global.autorep = []
-global.ntilink = []
+global.ntilinkytvid = [.]
+global.ntilinkytch = [.]
+global.ntilinkig = [.]
+global.ntilinkfb = [.]
+global.ntilinktg = [.]
+global.ntilinktt = [.]
+global.ntilinktwt = [.]
+global.ntilinkall = [.]
+global.nticall = [.]
+global.ntwame = [.]
+global.nttoxic = [.]
+global.ntnsfw = [.]
+global.ntvirtex = [.]
+global.rkyt = [.]
+global.wlcm = [.]
+global.gcrevoke = [.]
+global.autorep = [.]
+global.ntilink = [,]
 
 
 global.mess = {
